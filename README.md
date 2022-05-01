@@ -30,7 +30,7 @@ Find the directoy by entering:
 ```
 Then input file for data give on daily rate sheet followed by giving your credit score, monthly debt, monthly income, desired loan amount, and home value information. It will ask if you would like to save the list of qualifying loans.
 **example**
-![Input Example](./images/input.png)
+![Input Example](./images/input_example.png)
 
 ---
 
