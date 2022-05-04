@@ -6,6 +6,7 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+#move imports to top of file
 import sys
 import csv 
 import fire
